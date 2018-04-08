@@ -27,9 +27,10 @@ Jenkins
  ::
 
     jeśli zostaniesz poproszony o hasło dla admina, na root wpisz poniższą komendę
-    i  wklej hasło na stronę (tu: eeba707d659f48258aa0b770fa394882)
 
     cat jenkins/secrets/initialAdminPassword
+
+    i  wklej hasło na stronę (tu: eeba707d659f48258aa0b770fa394882)
 
 
 3. Wybierz *Suggested plugins* // instalacja sugerowanych wtyczek
