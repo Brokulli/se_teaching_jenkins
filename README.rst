@@ -39,7 +39,15 @@ i  wklej haslo (tu: eeba707d659f48258aa0b770fa394882):
 
     hasło: jak powyżej
     login: admin
-    
+
+5. Następnie dodajemy nowe zadanie
+
+  ::
+
+    nazwa aplikacji: se_hello_printer_app
+    organizacja: github organization
+    project owner: login z github'a
+    credentials: login & hasło jak w github, id & description zostawiamy puste
 
 Related
 -------
