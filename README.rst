@@ -8,10 +8,10 @@ Jenkins
    make build_jenkins
    make run_jenkins
 
-  ::
+- jesli nie dziala to wykonujemy na root
+(linie 107-114 z se_teaching_vm_images/vagrant/centos/Vagrantfile)
 
-  jesli nie dziala to wykonujemy na root
-  (linie 107-114 z se_teaching_vm_images/vagrant/centos/Vagrantfile)
+  ::
 
   yum install -y yum-utils
       yum-config-manager \
