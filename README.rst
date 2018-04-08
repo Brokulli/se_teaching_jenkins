@@ -24,14 +24,14 @@ Jenkins
 
 2. Następnie otwórz w przeglądarce 127.0.0.1:8080:
 
-   ::
+ ::
 
     jeśli zostaniesz poproszony o hasło dla admina, na root wpisz poniższą komendę
     i  wklej hasło na stronę (tu: eeba707d659f48258aa0b770fa394882)
 
     cat jenkins/secrets/initialAdminPassword
 
-    
+
 3. Wybierz *Suggested plugins* // instalacja sugerowanych wtyczek
 
 
